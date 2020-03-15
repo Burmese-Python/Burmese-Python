@@ -1,11 +1,11 @@
 # Burmese-Python
 Analysis with, data cleaning, web-scraping, forecasting and visualizations about the increase of Burmese Python in the wild.
 
-## 0. Project Intro
+## Situation
 Burmese Pythons is one of the largest species of snakes in the world, they are native from Southeast Asia; this specie is classified as an invasive species in the State of Florida, they are preying native species and competing with native species for food and other resources disrupting the ecosystem.
 Over the past years, there has been a concern about the fast-growing of the species in Florida and the potential spread in other states; for this reason, the state of Florida started a "Python Elimination program".
 
-## 1. Objectives:
+## Project:
 As Data Analyst we can use our skills to help support this program, our main focuses are:
 
 * Connect to SQLPro to import python.sql data.
